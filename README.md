@@ -17,8 +17,8 @@
 ## Microcontroladores
 
     Antes de falar sobre programar em arduino é imperativo entender melhor sobre a ferramenta que vamos
-    utilizar, os microcontroladores são como pequenos computadores em um circuito integrado (CI) de baixo custo,
-    a qual contém o necessário para que possa ser manuseado:
+    utilizar, os microcontroladores são como pequenos computadores em um circuito integrado (CI) de
+    baixo custo, a qual contém o necessário para que possa ser manuseado:
 
 * Núcleo de Processamento
 * Memória ROM/RAM/FLASH
