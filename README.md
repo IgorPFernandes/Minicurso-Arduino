@@ -29,7 +29,9 @@
 
 ## Microcontrolador X Microprocessador
 
-    Algumas pessoas confundem a diferença entre microcontrolador e microprocessador, os microprocessadores necessitam de periféricos para seu funcionamento, ser integrado a memorias, interface de comunicação e outros itens, enquanto os microcontroladores já possuem tudo isso integrado em um mesmo circuito como já foi citado.
+    Algumas pessoas confundem a diferença entre microcontrolador e microprocessador, os microprocessadores necessitam
+    de periféricos para seu funcionamento, ser integrado a memorias, interface de comunicação e outros itens, enquanto
+    os microcontroladores já possuem tudo isso integrado em um mesmo circuito como já foi citado.
 
 ## Vantagens de usar um Microcontrolador
     * Custos baixos de projeto e construção
@@ -38,7 +40,10 @@
     * Sistema compacto (“all in one”)
     * Praticidade para reposição
 ## Plataforma Arduino
-    Arduino é uma plataforma de prototipagem eletrônica de hardware livre e de placa única, projetada com um microcontrolador Atmel AVR com suporte de entrada/saída embutido e uma linguagem de programação padrão. Essa plataforma, possibilita que projetos de hardware baseados em microcontroladores possam ser simplificados, oferecendo grande vantagens a estudantes, professores e desenvolvedores interessados em sistemas de hardware.
+    Arduino é uma plataforma de prototipagem eletrônica de hardware livre e de placa única, projetada com um 
+    microcontrolador Atmel AVR com suporte de entrada/saída embutido e uma linguagem de programação padrão.
+    Essa plataforma, possibilita que projetos de hardware baseados em microcontroladores possam ser simplificados,
+    oferecendo grande vantagens a estudantes, professores e desenvolvedores interessados em sistemas de hardware.
 ## Microcontrolador: Arduino Uno
     * Para ministrar esse minicurso iremos utilizar os Arduinos Uno disponibilizados pela UFERSA.
     * Conexões Básicas: Botão Reset, Portas e Alimentação da Placa.
