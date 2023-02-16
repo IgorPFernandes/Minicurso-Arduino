@@ -62,7 +62,8 @@
     * Comunicação Serial efetuada pela conexão USB
     * GND significa Ground (Terra)
     * PWM significa Pulse With Modulation (Modulação por largura de pulso)
-    * Crystal Oscillator significa Oscilador de Cristal, usado como clock na placa, afinal o microcontrolador já possui um clock, porém varia tem uma maior variedade de frequência. 
+    * Crystal Oscillator significa Oscilador de Cristal, usado como clock na placa, afinal o microcontrolador
+    já possui um clock, porém varia tem uma maior variedade de frequência. 
 
 <br>
 
