@@ -1,6 +1,8 @@
 # Bem vindo ao repositorio do meu minicurso de introdução a arduino!!
 
-    Esse minicurso tem como objetivo ensinar conceitos básicos sobre o microcontrolador ATmega, explanar apenas o necessário da eletrónica aplicada as práticas e como operar o microcontrolador. O slide da apresentação está disponível na pasta do git e se complementa com esse documento.
+    Esse minicurso tem como objetivo ensinar conceitos básicos sobre o microcontrolador ATmega,
+    explanar apenas o necessário da eletrónica aplicada as práticas e como operar o microcontrolador.
+    O slide da apresentação está disponível na pasta do git e se complementa com esse documento.
 
 ## Mini-Curso Introdução a Arduino
 
@@ -14,7 +16,9 @@
 
 ## Microcontroladores
 
-    Antes de falar sobre programar em arduino é imperativo entender melhor sobre a ferramenta que vamos utilizar, os microcontroladores são como pequenos computadores em um circuito integrado (CI) de baixo custo, a qual contém o necessário para que possa ser manuseado:
+    Antes de falar sobre programar em arduino é imperativo entender melhor sobre a ferramenta que vamos
+    utilizar, os microcontroladores são como pequenos computadores em um circuito integrado (CI) de baixo custo,
+    a qual contém o necessário para que possa ser manuseado:
 
 * Núcleo de Processamento
 * Memória ROM/RAM/FLASH
